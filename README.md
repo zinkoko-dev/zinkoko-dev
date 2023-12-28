@@ -33,10 +33,10 @@
 <br/>
 
 <a href="">
-  <img height=180 width=350 align="center" src="https://github-readme-stats.vercel.app/api?username=zinkoko-developer&theme=holi" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zinkoko-developer&card_width=300&theme=holi" />
 </a>
 <a href="">
-  <img height=180 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zinkoko-developer&layout=compact&langs_count=5&card_width=320&theme=holi" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zinkoko-developer&layout=compact&langs_count=5&card_width=300&theme=holi" />
 </a>
 
 <!--
