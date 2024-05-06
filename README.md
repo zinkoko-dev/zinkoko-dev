@@ -32,13 +32,6 @@
 
 <br/>
 
-<a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zinkoko-developer&card_width=300&theme=holi" />
-</a>
-<a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zinkoko-developer&layout=compact&langs_count=5&card_width=300&theme=holi" />
-</a>
-
 <!--
  zinkoko-developer
 ### Hi there. I'm Zin Ko Ko <img src="https://github.com/zinkoko-developer/zinkoko-developer/blob/main/wave.gif" width="30">
